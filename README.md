@@ -14,6 +14,6 @@ statements, random number generation, input/output operations, and control struc
 C. The game is interactive, easy to use, and demonstrates how simple logic can be applied to create 
 a real-world application using C programming.
 
-![RESULT1](userwin.png)
-![RESULT2](draw.png)
-![RESULT3](computerwin.png)
+![RESULT1](RESULT1.png)
+![RESULT2](RESULT2.png)
+![RESULT3](RESULT3.png)
